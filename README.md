@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/oceangrsmith.png" alt="Logo" width="80" height="80">
+    <img src="img/oceangrsmith.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">HubLocker Skill Project</h3>
@@ -26,7 +26,7 @@
 </p>
 
 ## About the Project
-![Project Name Screen Shot](images/project_screenshot.png) 
+![Project Name Screen Shot](img/project_screenshot.png) 
 This application searches for a locker given an input (i.e. state or city) from a user and displays all the lockers at that location.
 
 ### Technologies used
